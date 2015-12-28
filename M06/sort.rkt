@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 ;; INSERTION SORT
 ;; Sort into nondescending order

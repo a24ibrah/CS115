@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 ;; (distance posn1 posn2) produces the Euclidean distance
 ;; between posn1 and posn2.
 ;; distance: Posn Posn → Num

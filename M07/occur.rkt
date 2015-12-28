@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 ;; Nth OCCUR SUFFIX 
 
 ;; The design recipe is left as an exercise.

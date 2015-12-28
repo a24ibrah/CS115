@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 ;; A nonempty list is either
 ;; * (cons v empty) where is a value of any type, or

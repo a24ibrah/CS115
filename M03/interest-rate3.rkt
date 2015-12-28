@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 (define (interest-rate amount)
   (cond
     [(and (<= 0 amount) (<= amount 1000)) 4.0]   ; 0 <= amount <= 1000

@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 ;; TWO-DIMENSIONAL DATA
 ;; (mult-table 3 4)

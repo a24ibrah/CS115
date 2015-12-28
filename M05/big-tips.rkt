@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 (define-struct server (name tips))
 ;; A Server is a structure (make-server n t) where

@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 ;; APPEND TWO LISTS
 
 ;; The design recipe is left as an exercise.

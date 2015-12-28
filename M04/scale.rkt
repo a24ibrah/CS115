@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 ;; (scale point factor) produces the Posn that results
 ;; when the fields of point are multiplied by factor
 ;; scale: Posn Num → Posn

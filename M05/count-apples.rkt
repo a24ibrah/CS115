@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 ;; ****** COUNT-APPLES ******
 
 ;; A (listof Sym) is one of: 

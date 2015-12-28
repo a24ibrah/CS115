@@ -1,3 +1,6 @@
+
+;; Fall 2015 update
+
 (define (cat-start? s)
   (string=? "cat" (substring s 0 3)))
 

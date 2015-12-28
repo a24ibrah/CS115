@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 
 ;; ****** NEGATE-LIST ******
 

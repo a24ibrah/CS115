@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 ;; remove-all: Num (listof Num)->(listof Num)
 ;; Produces list with all occurrences of n 

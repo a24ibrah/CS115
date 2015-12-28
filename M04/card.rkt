@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 (define-struct card (value suit))
 ;; A Card is a (make-card Nat Sym)
 ;; requires

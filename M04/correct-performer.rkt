@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 (define-struct mp3info (performer title length genre))
 ;; An Mp3Info is a (make-mp3info Str Str Nat Sym)
 ;; Requires:

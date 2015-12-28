@@ -1,3 +1,5 @@
+;; Fall 2015 update
+
 ;; (interest-rate amount) consumes the amount (amount) that a customer wishes
 ;;to deposit and produces the interest that the customer receives
 ;;for this amount of money.

@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 ;; The design recipe is left as an exercise.
 

@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 ;; TWO-DIMENSIONAL DATA
 ;; (table-2D 3 4)

@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 ;; Produces list with all occurrences of n 
 ;; removed from alon.

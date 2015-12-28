@@ -1,3 +1,4 @@
+;; Fall 2015 update
 
 (define (bonus1 diff)
 (cond
